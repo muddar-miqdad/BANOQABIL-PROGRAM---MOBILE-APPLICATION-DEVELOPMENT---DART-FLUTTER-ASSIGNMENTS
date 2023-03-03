@@ -1,4 +1,4 @@
-# Area-of-Trianble
+# AREA-OF-TRIANGLE-USING-THE-FORMULA-A = (b * h) / 2
 How to find area of triangle in dart.
 
 # Average-of-2-Float-Numbers
