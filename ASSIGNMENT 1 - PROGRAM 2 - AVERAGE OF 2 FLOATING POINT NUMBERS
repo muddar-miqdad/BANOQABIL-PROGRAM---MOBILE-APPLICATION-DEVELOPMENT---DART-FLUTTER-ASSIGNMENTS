@@ -1,0 +1,13 @@
+import 'dart:io';
+
+void main() {
+  print('Please enter the first number:');
+  double num1 = double.parse(stdin.readLineSync()!);
+
+  print('Please enter the second number:');
+  double num2 = double.parse(stdin.readLineSync()!);
+
+  double avg = (num1 + num2) / 2;
+
+  print('The average of $num1 and $num2 is ${avg.toStringAsFixed(2)}');
+}
